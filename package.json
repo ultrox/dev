@@ -1,0 +1,17 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "dev": "index.js"
+  },
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "findit": "^2.0.0",
+    "shelljs": "^0.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.1"
+  }
+}

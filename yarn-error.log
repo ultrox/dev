@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/markovujanic/.nvm/versions/node/v9.8.0/bin/node /Users/markovujanic/.yarn/bin/yarn.js init
+
+PATH: 
+  /Users/markovujanic/.rvm/gems/ruby-2.3.1/bin:/Users/markovujanic/.rvm/gems/ruby-2.3.1@global/bin:/Users/markovujanic/.rvm/rubies/ruby-2.3.1/bin:/Users/markovujanic/.yarn/bin:/Users/markovujanic/.config/yarn/global/node_modules/.bin:/usr/local/opt/python@2/libexec/bin:/Users/markovujanic/.cargo/bin:/Users/markovujanic/bin:/Users/markovujanic/go/bin:/usr/local/opt/python/libexec/bin:/usr/local/bin:/usr/local/sbin:/usr/local/Cellar/zplug/2.4.1/bin:/usr/local/opt/zplug/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/markovujanic/bubu:/Applications/Wireshark.app/Contents/MacOS:/Users/markovujanic/.rvm/gems/ruby-2.3.1/bin:/Users/markovujanic/.rvm/gems/ruby-2.3.1@global/bin:/Users/markovujanic/.rvm/rubies/ruby-2.3.1/bin:/Users/markovujanic/.yarn/bin:/Users/markovujanic/.config/yarn/global/node_modules/.bin:/usr/local/opt/python@2/libexec/bin:/Users/markovujanic/.cargo/bin:/Users/markovujanic/bin:/Users/markovujanic/go/bin:/Users/markovujanic/.nvm/versions/node/v9.8.0/bin:/usr/local/opt/python/libexec/bin:/Users/markovujanic/.fzf/bin:/Users/markovujanic/.rvm/bin:/Users/markovujanic/.rvm/bin
+
+Yarn version: 
+  1.6.0
+
+Node version: 
+  9.8.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/Users/markovujanic/.yarn/lib/cli.js:129516:13)
+      at Interface.emit (events.js:180:13)
+      at Interface._ttyWrite (readline.js:783:16)
+      at ReadStream.onkeypress (readline.js:163:10)
+      at ReadStream.emit (events.js:180:13)
+      at emitKeys (internal/readline.js:420:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1019:36)
+      at ReadStream.emit (events.js:180:13)
+      at addChunk (_stream_readable.js:269:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
