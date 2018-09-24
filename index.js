@@ -30,4 +30,4 @@ if (match.length) {
   shell.exec(`${match}/dev.sh ${options.src.join(' ')}`)
   console.log("found it", match[0]);
 }
-console.log("hell")
+console.log("hello")
